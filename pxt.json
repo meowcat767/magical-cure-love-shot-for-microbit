@@ -1,5 +1,6 @@
 {
     "name": "Magical Cure Love Shot for microbit",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
